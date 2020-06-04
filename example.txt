@@ -1,0 +1,22 @@
+s 2 2 22
+r 3 0 C3P0
+s 5 0 50
+r 1 0 G1ad0s
+n
+p
+r 0 5 Jonny5
+r 7 9 SevenOfNine
+s 8 8 88
+n
+n
+r 2 2 R2D2
+r 9 000 HAL-9000
+s 1 4 14
+n
+r 10 00 T-1000
+s 0 2 02
+p
+r 0 4 B-4
+s 10 1 101
+s 11 0 110
+a
