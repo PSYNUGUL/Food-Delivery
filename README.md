@@ -1,4 +1,4 @@
-# P10-Food-Delivery
+# Food Delivery
 `Recursion, Queue ADT, Percolate Up/Down (Bubble Up/Down),  Heap Sort 도입`
 
 ## 음식 배달 프로그램
